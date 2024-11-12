@@ -1,4 +1,6 @@
 ## Projeto: CrewAI - Star Wars
+
+Projeto de exemplo do vídeo do canal do professor [Sandeco](https://www.youtube.com/@canalsandeco) disponível no [Youtube](https://www.youtube.com/watch?v=XqBOLmFaQCM&t=1108s/)
 <hr>
 
 ### :zap: Tecnologias

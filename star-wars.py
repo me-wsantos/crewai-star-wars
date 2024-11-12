@@ -3,7 +3,7 @@ from crewai_tools import tool
 from crewai import Agent, Task, Crew, Process
 from langchain_openai import ChatOpenAI
 
-os.environ["OPENAI_API_KEY"]
+os.environ["OPENAI_API_KEY"]="xxxxxxxxxx"
 gpt4o = ChatOpenAI(model_name='gpt-4o')
 
 @tool ("x_wing")
